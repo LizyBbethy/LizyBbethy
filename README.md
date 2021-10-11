@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LizyBbethy
 - 👀 I’m interested in software
-- 🌱 I’m currently learning 
+- 🌱 I’m currently coding and expanding my skills
+- java,python ,react ,typescript,js ,html/CSS efficient 
 - 💞️ I’m looking to collaborate on open source code
 - 📫 How to reach me 
 
